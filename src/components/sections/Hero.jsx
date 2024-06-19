@@ -2,7 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import Typewriter from "typewriter-effect";
-import HeroImg from "../../images/HeroImage.jpg";
+// import HeroImg from "../../images/HeroImage.jpg";
+import girlImage from "../../images/Img.jpeg"; 
 import HeroBgAnimation from "../HeroBgAnimation";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
@@ -75,7 +76,7 @@ const HeroRightContainer = styled.div`
 
 const Title = styled.div`
   font-weight: 700;
-  font-size: 50px;
+  font-size: 50px;.
   color: ${({ theme }) => theme.text_primary};
   line-height: 68px;
 
@@ -256,7 +257,7 @@ const Hero = () => {
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHz71fz7aBA3INkxjZyP1E3kFdcOQPrwPlLg&usqp=CAU" alt="Vamsi Kurimeti" />
+                  <Img src={girlImage} alt="Mrudula Masupatri" />
                 </Tilt>
               </motion.div>
             </HeroRightContainer>

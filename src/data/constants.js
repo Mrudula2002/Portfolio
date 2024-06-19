@@ -11,7 +11,6 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/14Ez_81d2sHbmRZdL8x-uPV-PtIVk75r3/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/mrudula-masupatri",
-  // facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
 
 export const skills = [
