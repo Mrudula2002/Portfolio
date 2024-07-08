@@ -27,7 +27,6 @@ const Name = styled.div`
   font-size: 18px;
   font-weight: 600px;
   color: ${({ theme }) => theme.text_primary + 99};
-
   @media only screen and (max-width: 768px) {
     font-size: 14px;
   }
@@ -61,7 +60,7 @@ const Grade = styled.div`
 
 const Description = styled.div`
   width: 100%;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   color: ${({ theme }) => theme.text_primary + 99};
   margin-bottom: 10px;

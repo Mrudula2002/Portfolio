@@ -55,6 +55,7 @@ const HeroLeftContainer = styled.div`
     align-items: center;
   }
 `;
+
 const HeroRightContainer = styled.div`
   width: 100%;
   order: 2;
@@ -229,7 +230,7 @@ const Hero = () => {
           <HeroInnerContainer>
             <HeroLeftContainer>
               <motion.div {...headTextAnimation}>
-                <Title>
+                <Title style={{ color : 'white' }}>
                   Hi, I am <br /> {Bio.name}
                 </Title>
                 <TextLoop>

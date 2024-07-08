@@ -17,7 +17,7 @@ export const skills = [
   {
     title: "Frontend",
     skills: [
-     // {
+      // {
       //   name: "Angular",
       //   image:
       //     "https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667",
@@ -52,7 +52,7 @@ export const skills = [
       //   image:
       //     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       // },
-     
+
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -119,7 +119,7 @@ export const skills = [
         image:
           "https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png",
       },
-      
+
       {
         name: "MongoDB",
         image:
@@ -132,48 +132,48 @@ export const skills = [
     ]
   },
   // {
-    // title: "DevOps",
-    // skills: [
-    //   {
-    //     name: "AWS",
-    //     image:
-    //       "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
-    //   },
-    //   {
-    //     name: "Google Cloud",
-    //     image:
-    //       "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
-    //   },
-    //   {
-    //     name: "Docker",
-    //     image:
-    //       "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-    //   },
-    //   {
-    //     name: "Jenkins",
-    //     image:
-    //       "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
-    //   },
-      // {
-      //   name: "Nginx",
-      //   image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
-      // },
-      // {
-      //   name: "Grafana",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
-      // },
-      // {
-      //   name: "Kubernetes",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
-      // },
-      // {
-      //   name: "Prometheus",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
-      // },
-    // ],
+  // title: "DevOps",
+  // skills: [
+  //   {
+  //     name: "AWS",
+  //     image:
+  //       "https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png",
+  //   },
+  //   {
+  //     name: "Google Cloud",
+  //     image:
+  //       "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
+  //   },
+  //   {
+  //     name: "Docker",
+  //     image:
+  //       "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
+  //   },
+  //   {
+  //     name: "Jenkins",
+  //     image:
+  //       "https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png",
+  //   },
+  // {
+  //   name: "Nginx",
+  //   image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
+  // },
+  // {
+  //   name: "Grafana",
+  //   image:
+  //     "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
+  // },
+  // {
+  //   name: "Kubernetes",
+  //   image:
+  //     "https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png",
+  // },
+  // {
+  //   name: "Prometheus",
+  //   image:
+  //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png",
+  // },
+  // ],
   // },
   // {
   //   title: "Android",
@@ -289,8 +289,8 @@ export const experiences = [
     role: "Java Developer Intern",
     company: "Miracle Software Systems, Inc",
     date: "February 2022 - April 2022",
-    companyLogo:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvSDLU8XyOSyfZaxZQpTe1pyJcRt0F1jYR7w&usqp=CAU",
-    desc: "Joined in Miracle as a Intern and gained experience in building production grade robust web applications ",
+    companyLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvSDLU8XyOSyfZaxZQpTe1pyJcRt0F1jYR7w&usqp=CAU",
+    desc: "Gained hands on experience in developing Java applications. Learned to design implement and maintain relational databases using MySQL. Contributed to the development of web applications that utilized Java and MySQL technologies.",
     skills: [
       "MySQL",
       "Java",
@@ -306,8 +306,8 @@ export const experiences = [
     role: "Spring Boot Developer Intern",
     company: "TriknTek Software Private Limited",
     date: "August 2023 - November 2023",
-    companyLogo:"https://www.trikntek.in/img/slide-5.png",
-    desc: "My roles and responsibilities include Designing - Buildilding - Testing - Shipping - maintaintaining - securing Production grade, robust corporate webapplications",
+    companyLogo: "https://www.trikntek.in/img/slide-5.png",
+    desc: "Immersed myself in Spring Boot development, gaining valuable hands-on experience in crafting robust applications. My primary focus was on designing and implementing Restful APIs, allowing me to delve into the intricacies of database integration.",
     skills: [
       "Java",
       "Spring Boot",
